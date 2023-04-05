@@ -1,0 +1,12 @@
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploMultiple\bin\Debug\LinearORM.dll.config
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploMultiple\bin\Debug\LinearORM.dll
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploMultiple\bin\Debug\LinearORM.pdb
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploMultiple\bin\Debug\EntityFramework.dll
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploMultiple\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploMultiple\bin\Debug\EntityFramework.xml
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploMultiple\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploMultiple\obj\Debug\ORMExemploMultiple.csproj.AssemblyReference.cache
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploMultiple\obj\Debug\ORMExemploMultiple.csproj.CoreCompileInputs.cache
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploMultiple\obj\Debug\ORMExemploMultiple.csproj.CopyComplete
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploMultiple\obj\Debug\LinearORM.dll
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploMultiple\obj\Debug\LinearORM.pdb

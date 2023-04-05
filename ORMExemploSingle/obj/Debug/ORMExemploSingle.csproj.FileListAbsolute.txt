@@ -1,0 +1,7 @@
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploSingle\bin\Debug\LinearORM.dll.config
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploSingle\bin\Debug\LinearORM.dll
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploSingle\bin\Debug\LinearORM.pdb
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploSingle\obj\Debug\ORMExemploSingle.csproj.AssemblyReference.cache
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploSingle\obj\Debug\ORMExemploSingle.csproj.CoreCompileInputs.cache
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploSingle\obj\Debug\LinearORM.dll
+E:\Projetos\ORMExemploSingle\ORMExemploSingle\ORMExemploSingle\obj\Debug\LinearORM.pdb
