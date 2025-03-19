@@ -8,7 +8,7 @@
 Welcome to the Simple .NET ORM Project! This project is designed to offer developers a clear and concise resource for integrating object-relational mapping (ORM) into their .NET applications using LINQ to manage data efficiently. Our ORM solution comes in two variations: `ORMExemploMultiple` supporting multiple database providers and `ORMExemploSingle` which is tailored specifically for MySQL.
 This application was designed with the portuguese language, but you can feel free to adapt it to your own language. Maybe I'll make it in english as well depending on the amount of requests.
 There is a portuguese article about the implementation:
-https://medium.com/@matheushoske/27e62a06e030
+https://medium.com/@matheushoske/desenvolvendo-uma-orm-net-com-suporte-a-linq-queries-27e62a06e030
 ## Description
 
 This project provides a basic implementation of an ORM using .NET, demonstrating the construction of a query provider that can translate LINQ queries into SQL commands and map the results back to .NET objects. The core aim is to provide a fundamental understanding and a functional baseline for more extensive or specific use cases.

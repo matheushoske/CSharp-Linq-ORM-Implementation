@@ -13,7 +13,7 @@ Bem-vindo ao Projeto Simples de ORM para .NET! Este projeto foi desenvolvido par
 Esta aplicação foi projetada em português, mas sinta-se à vontade para adaptá-la para seu próprio idioma. Talvez eu também a traduza para inglês, dependendo da quantidade de solicitações.
 
 Há um artigo em português sobre a implementação:\
-[https://medium.com/@matheushoske/27e62a06e030](https://medium.com/@matheushoske/27e62a06e030)
+[https://medium.com/@matheushoske/desenvolvendo-uma-orm-net-com-suporte-a-linq-queries-27e62a06e030](https://medium.com/@matheushoske/desenvolvendo-uma-orm-net-com-suporte-a-linq-queries-27e62a06e030)
 
 ## Descrição
 
