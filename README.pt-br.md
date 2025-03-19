@@ -1,4 +1,5 @@
-## Selecione o Idioma do README
+## Selecione o Idioma do README / Select your README Language
+
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/matheushoske/CSharp-Linq-ORM-Implementation/blob/master/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/matheushoske/CSharp-Linq-ORM-Implementation/blob/master/README.pt-br.md)
 
